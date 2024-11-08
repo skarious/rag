@@ -3,38 +3,6 @@ Title: API Documentation - GLPI
 URL Source: https://glpi.comercialarmin.com.py/apirest.php/
 
 Markdown Content:
-Summary
--------
-
-*   [Glossary](https://glpi.comercialarmin.com.py/apirest.php/#glossary)
-*   [Important](https://glpi.comercialarmin.com.py/apirest.php/#important)
-*   [Init session](https://glpi.comercialarmin.com.py/apirest.php/#init-session)
-*   [Kill session](https://glpi.comercialarmin.com.py/apirest.php/#kill-session)
-*   [Lost password](https://glpi.comercialarmin.com.py/apirest.php/#lost-password)
-*   [Get my profiles](https://glpi.comercialarmin.com.py/apirest.php/#get-my-profiles)
-*   [Get active profile](https://glpi.comercialarmin.com.py/apirest.php/#get-active-profile)
-*   [Change active profile](https://glpi.comercialarmin.com.py/apirest.php/#change-active-profile)
-*   [Get my entities](https://glpi.comercialarmin.com.py/apirest.php/#get-my-entities)
-*   [Get active entities](https://glpi.comercialarmin.com.py/apirest.php/#get-active-entities)
-*   [Change active entities](https://glpi.comercialarmin.com.py/apirest.php/#change-active-entities)
-*   [Get full session](https://glpi.comercialarmin.com.py/apirest.php/#get-full-session)
-*   [Get GLPI config](https://glpi.comercialarmin.com.py/apirest.php/#get-glpi-config)
-*   [Get an item](https://glpi.comercialarmin.com.py/apirest.php/#get-an-item)
-*   [Get all items](https://glpi.comercialarmin.com.py/apirest.php/#get-all-items)
-*   [Get sub items](https://glpi.comercialarmin.com.py/apirest.php/#get-sub-items)
-*   [Get multiple items](https://glpi.comercialarmin.com.py/apirest.php/#get-multiple-items)
-*   [List searchOptions](https://glpi.comercialarmin.com.py/apirest.php/#list-searchoptions)
-*   [Search items](https://glpi.comercialarmin.com.py/apirest.php/#search-items)
-*   [Add item(s)](https://glpi.comercialarmin.com.py/apirest.php/#add-items)
-*   [Update item(s)](https://glpi.comercialarmin.com.py/apirest.php/#update-items)
-*   [Delete item(s)](https://glpi.comercialarmin.com.py/apirest.php/#delete-items)
-*   [Get available massive actions for an itemtype](https://glpi.comercialarmin.com.py/apirest.php/#get-available-massive-actions-for-an-itemtype)
-*   [Get available massive actions for an item](https://glpi.comercialarmin.com.py/apirest.php/#get-available-massive-actions-for-an-item)
-*   [Get massive action parameters](https://glpi.comercialarmin.com.py/apirest.php/#get-massive-action-parameters)
-*   [Apply massive action](https://glpi.comercialarmin.com.py/apirest.php/#apply-massive-action)
-*   [Special cases](https://glpi.comercialarmin.com.py/apirest.php/#special-cases)
-*   [Errors](https://glpi.comercialarmin.com.py/apirest.php/#errors)
-*   [Servers configuration](https://glpi.comercialarmin.com.py/apirest.php/#servers-configuration)
 
 Glossary
 --------
